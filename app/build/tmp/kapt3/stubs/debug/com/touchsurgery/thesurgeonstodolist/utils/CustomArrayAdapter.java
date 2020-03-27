@@ -7,17 +7,17 @@ public final class CustomArrayAdapter extends android.widget.ArrayAdapter<com.to
     private java.util.ArrayList<com.touchsurgery.thesurgeonstodolist.utils.Item> itemList;
     private final android.content.Context mContext = null;
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public android.view.View getView(int position, @org.jetbrains.annotations.Nullable()
-    android.view.View convertView, @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public android.view.View getView(int position, @org.jetbrains.annotations.Nullable
+    android.view.View convertView, @org.jetbrains.annotations.NotNull
     android.view.ViewGroup parent) {
         return null;
     }
     
-    public CustomArrayAdapter(@org.jetbrains.annotations.NotNull()
-    android.content.Context mContext, @org.jetbrains.annotations.NotNull()
-    @android.support.annotation.LayoutRes()
+    public CustomArrayAdapter(@org.jetbrains.annotations.NotNull
+    android.content.Context mContext, @org.jetbrains.annotations.NotNull
+    @android.support.annotation.LayoutRes
     java.util.ArrayList<com.touchsurgery.thesurgeonstodolist.utils.Item> list) {
         super(null, 0);
     }

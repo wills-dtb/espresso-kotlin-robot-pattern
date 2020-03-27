@@ -6,6 +6,6 @@ import java.lang.System;
 @dagger.Component(modules = {com.touchsurgery.thesurgeonstodolist.dagger.MainActivityPresenterModule.class})
 public abstract interface AppComponent {
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public abstract java.util.ArrayList<com.touchsurgery.thesurgeonstodolist.utils.Item> provideDefaultListItems();
 }

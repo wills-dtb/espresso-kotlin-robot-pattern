@@ -6,8 +6,8 @@ import java.lang.System;
 public final class SettingsActivity extends android.support.v7.app.AppCompatActivity {
     private java.util.HashMap _$_findViewCache;
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     

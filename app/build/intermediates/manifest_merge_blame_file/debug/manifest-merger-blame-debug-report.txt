@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.touchsurgery.thesurgeonstodolist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:4:5-21:19
+12        android:allowBackup="true"
+12-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:5:13-39
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:6:13-47
+15        android:label="@string/app_name"
+15-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:7:13-45
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:8:13-58
+17        android:supportsRtl="true"
+17-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:9:13-39
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:10:13-44
+20        <activity
+20-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:11:9-19:20
+21            android:name="com.touchsurgery.thesurgeonstodolist.activities.MainActivity"
+21-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:12:17-56
+22            android:label="@string/app_name" >
+22-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:13:17-49
+23            <intent-filter>
+23-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:14:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:15:17-69
+24-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:17:17-77
+26-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="com.touchsurgery.thesurgeonstodolist.activities.SettingsActivity" />
+29-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:20:9-74
+29-->/Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:20:19-62
+30
+31        <meta-data
+31-->[android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+32            android:name="android.arch.lifecycle.VERSION"
+32-->[android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:26:13-58
+33            android:value="27.0.0-SNAPSHOT" />
+33-->[android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:27:13-44
+34    </application>
+35
+36</manifest>

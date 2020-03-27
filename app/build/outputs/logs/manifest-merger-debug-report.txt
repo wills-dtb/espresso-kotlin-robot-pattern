@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+MERGED from [com.android.support:design:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/7b94c544d52d06f4c419768f8b9ab05a/design-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/1534c1863924f314f111e936ff4aa83d/appcompat-v7-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/01a8c0061e5c8e400c59b1da7fe6af7f/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/721d76afd59f6b18863f07706ee4403d/support-v4-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/ed078a63fba62de9de4a15c0786cada8/support-fragment-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2fbe3cf5051311dadbff7539a0c8e569/support-core-utils-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/cf35e6bf0f4a58f33143fa03a5146e11/animated-vector-drawable-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2befb2e153c87debdace641b8b5846e9/support-vector-drawable-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/89bb48b67a80b3e861669d6dba977d49/recyclerview-v7-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/f014c2b891c9870caa578aad11987896/transition-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/48a2933a9df4e2192370568cb17ade78/support-core-ui-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/25631b4409bcea3ced8c61327e909839/support-media-compat-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/d18a32c75f33be2f69929dbffc596aab/support-compat-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:2:11-57
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:1-22:12
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:4:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/01a8c0061e5c8e400c59b1da7fe6af7f/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/01a8c0061e5c8e400c59b1da7fe6af7f/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:9:13-39
+	android:label
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:7:13-45
+	android:roundIcon
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:8:13-58
+	android:icon
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:6:13-47
+	android:allowBackup
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:5:13-39
+	android:theme
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:10:13-44
+activity#com.touchsurgery.thesurgeonstodolist.activities.MainActivity
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:13:17-49
+	android:name
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:12:17-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.touchsurgery.thesurgeonstodolist.activities.SettingsActivity
+ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:20:9-74
+	android:name
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml:20:19-62
+uses-sdk
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/7b94c544d52d06f4c419768f8b9ab05a/design-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/7b94c544d52d06f4c419768f8b9ab05a/design-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/1534c1863924f314f111e936ff4aa83d/appcompat-v7-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/1534c1863924f314f111e936ff4aa83d/appcompat-v7-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/01a8c0061e5c8e400c59b1da7fe6af7f/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/01a8c0061e5c8e400c59b1da7fe6af7f/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/721d76afd59f6b18863f07706ee4403d/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/721d76afd59f6b18863f07706ee4403d/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/ed078a63fba62de9de4a15c0786cada8/support-fragment-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/ed078a63fba62de9de4a15c0786cada8/support-fragment-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2fbe3cf5051311dadbff7539a0c8e569/support-core-utils-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2fbe3cf5051311dadbff7539a0c8e569/support-core-utils-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/cf35e6bf0f4a58f33143fa03a5146e11/animated-vector-drawable-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/cf35e6bf0f4a58f33143fa03a5146e11/animated-vector-drawable-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2befb2e153c87debdace641b8b5846e9/support-vector-drawable-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/2befb2e153c87debdace641b8b5846e9/support-vector-drawable-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/89bb48b67a80b3e861669d6dba977d49/recyclerview-v7-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/89bb48b67a80b3e861669d6dba977d49/recyclerview-v7-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/f014c2b891c9870caa578aad11987896/transition-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/f014c2b891c9870caa578aad11987896/transition-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/48a2933a9df4e2192370568cb17ade78/support-core-ui-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/48a2933a9df4e2192370568cb17ade78/support-core-ui-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/25631b4409bcea3ced8c61327e909839/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/25631b4409bcea3ced8c61327e909839/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/d18a32c75f33be2f69929dbffc596aab/support-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/d18a32c75f33be2f69929dbffc596aab/support-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wills.dtb/workspaces/android-qa-assignment/TheSurgeonsTodoList/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wills.dtb/.gradle/caches/transforms-2/files-2.1/5d04f0780062c3c081fd4b670c893420/runtime-1.0.0/AndroidManifest.xml:26:13-58
